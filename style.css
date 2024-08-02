@@ -46,6 +46,11 @@ header img {
   height: auto;
   margin: 0 auto;
 }
+div img {
+  width: 20px;
+  height: auto;
+  margin: 0 auto;
+}
 section {
   margin-bottom: 30px;
   padding: 20px;
